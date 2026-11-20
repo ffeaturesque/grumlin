@@ -6,6 +6,15 @@
     <description>Grumlin updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Fri, 20 Nov 2026 10:42:23 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: Wake Up at Launch, so Grumlin can start the day awake (off by default). Feed After Midnight now sits in its own menu group.</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/grumlin/releases/download/v1.0.2/Grumlin-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="B/E2h9BfkFb1HH22DsFSXLcT2kALJgWrQ6Y03iFWSLBrVAaxn3kDwoOrciUO+nKty4FJAcIZX+W9iLwX/48EBg==" length="1934654" />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Fri, 20 Nov 2026 10:16:23 GMT</pubDate>
       <sparkle:version>2</sparkle:version>

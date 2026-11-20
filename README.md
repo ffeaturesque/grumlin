@@ -18,7 +18,7 @@ Click the gremlin and your Mac won't go to sleep or dim the screen. Click it aga
 - **Until a process finishes**: pick a build, download or script from your terminal, and Grumlin goes to sleep when it exits
 - **Until unplugged** (laptops): stays awake while you're at your desk and lets go when you pull the charger
 - **Keep Display Awake** on or off: leave it on for presentations and recipes, turn it off when only the Mac needs to keep working (the screen can dim and sleep)
-- **Launch at login**
+- **Launch at login**, and **Wake Up at Launch** if you want it awake from the moment you log in
 - It blinks, looks around, yawns when the timer is almost up, gets tired after a long shift and grumpy if you poke it too much, and pretends it wasn't napping when you catch it
 - When it goes to sleep, it tells you how long it kept watch
 - **Feed After Midnight**: keeps your Mac awake indefinitely. You were warned. Feed it during a timer or a watch and it gets a sugar rush, then carries on with the job.
