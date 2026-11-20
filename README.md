@@ -1,11 +1,11 @@
-<p align="center"><img src="icon.png" width="128" alt="Wakeling icon"></p>
+<p align="center"><img src="icon.png" width="128" alt="Grumlin icon"></p>
 
-<h1 align="center">Wakeling</h1>
+<h1 align="center">Grumlin</h1>
 
 <p align="center">A tiny gremlin in your menu bar that keeps your Mac awake.<br>
 Bites if poked. Don't feed it after midnight.</p>
 
-<p align="center"><a href="https://github.com/ffeaturesque/wakeling/releases/latest"><b>Download the latest version</b></a></p>
+<p align="center"><a href="https://github.com/ffeaturesque/grumlin/releases/latest"><b>Download the latest version</b></a></p>
 
 ## What it does
 
@@ -15,7 +15,7 @@ Click the gremlin and your Mac won't go to sleep or dim the screen. Click it aga
 - **Right-click** for everything else:
 - **Timers**: keep awake for 15 minutes, 30 minutes, 1, 2 or 5 hours, with a +15 min extension when you need it
 - **Until a time**: stay awake until 17:30 or any time you pick
-- **Until a process finishes**: pick a build, download or script from your terminal, and Wakeling goes to sleep when it exits
+- **Until a process finishes**: pick a build, download or script from your terminal, and Grumlin goes to sleep when it exits
 - **Keep Display Awake** on or off: leave it on for presentations and recipes, turn it off when only the Mac needs to keep working (the screen can dim and sleep)
 - **Launch at login**
 - It blinks, looks around, yawns when the timer is almost up, gets tired after a long shift and grumpy if you poke it too much, and pretends it wasn't napping when you catch it
@@ -30,7 +30,7 @@ macOS 13 Ventura or later, Apple Silicon or Intel. Signed with a Developer ID an
 
 ## Install
 
-Download the DMG from [Releases](https://github.com/ffeaturesque/wakeling/releases/latest), open it, and drag Wakeling into Applications.
+Download the DMG from [Releases](https://github.com/ffeaturesque/grumlin/releases/latest), open it, and drag Grumlin into Applications.
 
 ---
 
