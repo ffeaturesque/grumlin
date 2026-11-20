@@ -7,6 +7,8 @@ Bites if poked. Don't feed it after midnight.</p>
 
 <p align="center"><a href="https://github.com/ffeaturesque/grumlin/releases/latest"><b>Download the latest version</b></a></p>
 
+<p align="center"><img src="screenshot.png" width="360" alt="Grumlin menu"></p>
+
 ## What it does
 
 Click the gremlin and your Mac won't go to sleep or dim the screen. Click it again and it dozes off, and your Mac is free to sleep too.
