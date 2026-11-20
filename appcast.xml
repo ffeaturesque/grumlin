@@ -5,5 +5,14 @@
     <link>https://github.com/ffeaturesque/wakeling</link>
     <description>Wakeling updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Fri, 20 Nov 2026 08:17:09 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release of Wakeling: a tiny gremlin in your menu bar that keeps your Mac awake. Timers, until a time, until a process finishes, Keep Display Awake, and midnight pizza.</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/wakeling/releases/download/v1.0/Wakeling-1.0.dmg" type="application/octet-stream" sparkle:edSignature="U5hCZwkLwT70yao408ws8a9F25b0jQi6vtxzuLogHgFcMSaox4RLwz9ni13q5yz6rwW96ufyPQ7DXTMPqmv3AQ==" length="1864747" />
+    </item>
   </channel>
 </rss>
