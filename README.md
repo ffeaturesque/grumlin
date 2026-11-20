@@ -34,4 +34,4 @@ Download the DMG from [Releases](https://github.com/ffeaturesque/wakeling/releas
 
 ---
 
-Made by Featuresque.
+Made by featuresque.
