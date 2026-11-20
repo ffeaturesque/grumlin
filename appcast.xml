@@ -6,6 +6,15 @@
     <description>Grumlin updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Fri, 20 Nov 2026 10:16:23 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Feed Grumlin during a timer or a process watch and it gets a sugar rush, then carries on with the job. New: Until Unplugged (laptops). After a long shift, a slice of pizza is appreciated. Fixes: Until a Time within the next minute no longer rolls over to tomorrow.</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/grumlin/releases/download/v1.0.1/Grumlin-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="qfD8fZdoTio14tQ+zhv6QJ9RhUY8M6QZlzSagw6VT/BcMBq7g4JOV6okubwxE6pvd2ASBe2y03dHDJJVg7ZTCw==" length="1931763" />
+    </item>
+    <item>
       <title>Version 1.0</title>
       <pubDate>Fri, 20 Nov 2026 08:43:34 GMT</pubDate>
       <sparkle:version>1</sparkle:version>
