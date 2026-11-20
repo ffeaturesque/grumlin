@@ -5,5 +5,14 @@
     <link>https://github.com/ffeaturesque/grumlin</link>
     <description>Grumlin updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Fri, 20 Nov 2026 08:43:34 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release of Grumlin: a little gremlin in your menu bar that keeps your Mac awake. Timers, until a time, until a process finishes, Keep Display Awake, midnight pizza. In English, Simplified Chinese and Japanese.</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/grumlin/releases/download/v1.0/Grumlin-1.0.dmg" type="application/octet-stream" sparkle:edSignature="P0QtgYOxoCfoIXhda0vMbUpX+7h/XgHl6uPQ44ChO1t6bH+McFD140Ta9iCu/bO/wpo0jPW/+HoWnAKm0H3QCQ==" length="1671963" />
+    </item>
   </channel>
 </rss>
