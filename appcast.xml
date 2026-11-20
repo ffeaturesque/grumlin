@@ -6,6 +6,15 @@
     <description>Grumlin updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <pubDate>Fri, 20 Nov 2026 21:33:02 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New grumlin terminal command: run grumlin make (or any command) and the Mac stays awake until it finishes. Several commands can be watched at once; Grumlin naps after the last one. New icon. Friendlier wording here and there. Also on Homebrew: brew install --cask ffeaturesque/tap/grumlin</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/grumlin/releases/download/v1.1/Grumlin-1.1.dmg" type="application/octet-stream" sparkle:edSignature="TfnHozIdrt1uxjE9VSzwPlwtjQKhZX3bArrk9ui0XKIFnJ/4FtXq5/1crbVAZ/EZh3HM6njRW4aPKJUT02aSAA==" length="1974548" />
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <pubDate>Fri, 20 Nov 2026 10:42:23 GMT</pubDate>
       <sparkle:version>3</sparkle:version>

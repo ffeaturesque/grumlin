@@ -26,6 +26,17 @@ Click the gremlin and your Mac won't go to sleep or dim the screen. Click it aga
 - English, Simplified Chinese and Japanese
 - Updates itself (Sparkle)
 
+## From the terminal
+
+Start a long command with `grumlin` in front of it, and Grumlin keeps your Mac awake until it finishes:
+
+```sh
+grumlin make -j8
+grumlin watch -- ffmpeg -i in.mov out.mp4
+```
+
+Install the command from the right-click menu: **Until a Process Finishes… → Install grumlin Command…** (it links `/usr/local/bin/grumlin` to the app).
+
 ## Requirements
 
 macOS 13 Ventura or later, Apple Silicon or Intel. Signed with a Developer ID and notarized by Apple.
@@ -33,6 +44,12 @@ macOS 13 Ventura or later, Apple Silicon or Intel. Signed with a Developer ID an
 ## Install
 
 Download the DMG from [Releases](https://github.com/ffeaturesque/grumlin/releases/latest), open it, and drag Grumlin into Applications.
+
+Or with Homebrew (this also installs the `grumlin` terminal command):
+
+```sh
+brew install --cask ffeaturesque/tap/grumlin
+```
 
 ---
 
