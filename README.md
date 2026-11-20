@@ -14,10 +14,13 @@ Click the gremlin and your Mac won't go to sleep or dim the screen. Click it aga
 - **Click** to wake it up or put it to sleep
 - **Right-click** for everything else:
 - **Timers**: keep awake for 15 minutes, 30 minutes, 1, 2 or 5 hours, with a +15 min extension when you need it
+- **Until a time**: stay awake until 17:30 or any time you pick
 - **Until a process finishes**: pick a build, download or script from your terminal, and Wakeling goes to sleep when it exits
 - **Keep Display Awake** on or off: leave it on for presentations and recipes, turn it off when only the Mac needs to keep working (the screen can dim and sleep)
 - **Launch at login**
-- It blinks, looks around, yawns when the timer is almost up, gets tired after a long shift and grumpy if you poke it too much
+- It blinks, looks around, yawns when the timer is almost up, gets tired after a long shift and grumpy if you poke it too much, and pretends it wasn't napping when you catch it
+- When it goes to sleep, it tells you how long it kept watch
+- **Feed After Midnight**: keeps your Mac awake indefinitely. You were warned.
 - Monochrome menu bar icon that fits in with the rest of your menu bar, in light and dark mode
 - Updates itself (Sparkle)
 
