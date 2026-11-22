@@ -6,6 +6,15 @@
     <description>Grumlin updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Sun, 22 Nov 2026 20:45:29 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Feed it during a timer or a watch and the shift ends mid sugar rush? It now crashes with its own goodnight line. On long shifts it no longer looks tired all the time: it just nods off now and then, and a pizza keeps it alert for a while.</p>]]></description>
+      <enclosure url="https://github.com/ffeaturesque/grumlin/releases/download/v1.1.1/Grumlin-1.1.1.dmg" type="application/octet-stream" sparkle:edSignature="p8OuzqKkNBOvJi/5Skke6X2b1qvNpHnc9Vr+fNIVEL8Nkdd7Oio6Xhm+G40DIEJw6JCrsoF2sk5/CjBnfwOHBg==" length="1978309" />
+    </item>
+    <item>
       <title>Version 1.1</title>
       <pubDate>Fri, 20 Nov 2026 21:33:02 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
