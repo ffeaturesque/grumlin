@@ -9,50 +9,28 @@ Bites if poked. Don't feed it after midnight.</p>
 
 <p align="center"><img src="screenshot.png" width="360" alt="Grumlin menu"></p>
 
-## What it does
+Click Grumlin to keep your Mac awake. Click again when you’re done. Right-click to set a timer or have it keep watch until a process finishes or you unplug your laptop. If you want the screen to sleep while your Mac keeps working, uncheck **Keep Display Awake**.
 
-Click the gremlin and your Mac won't go to sleep or dim the screen. Click it again and it dozes off, and your Mac is free to sleep too.
-
-- **Click** to wake it up or put it to sleep
-- **Right-click** for everything else:
-- **Timers**: keep awake for 15 minutes, 30 minutes, 1, 2 or 5 hours, with a +15 min extension when you need it
-- **Until a time**: stay awake until 17:30 or any time you pick
-- **Until a process finishes**: pick a build, download or script from your terminal, and Grumlin goes to sleep when it exits
-- **Until unplugged** (laptops): stays awake while you're at your desk and lets go when you pull the charger
-- **Keep Display Awake** on or off: leave it on for presentations and recipes, turn it off when only the Mac needs to keep working (the screen can dim and sleep)
-- **Launch at login**, and **Wake Up at Launch** if you want it awake from the moment you log in
-- It blinks, looks around, yawns when the timer is almost up, gets tired after a long shift and grumpy if you poke it too much, and pretends it wasn't napping when you catch it
-- When it goes to sleep, it tells you how long it kept watch
-- **Feed After Midnight**: keeps your Mac awake indefinitely. You were warned. Feed it during a timer or a watch and it gets a sugar rush, then carries on with the job.
-- Monochrome menu bar icon that fits in with the rest of your menu bar, in light and dark mode
-- English, Simplified Chinese and Japanese
-- Updates itself (Sparkle)
-
-## From the terminal
-
-Start a long command with `grumlin` in front of it, and Grumlin keeps your Mac awake until it finishes:
-
-```sh
-grumlin make -j8
-grumlin watch -- ffmpeg -i in.mov out.mp4
-```
-
-Install the command from the right-click menu: **Until a Process Finishes… → Install grumlin Command…** (it links `/usr/local/bin/grumlin` to the app).
-
-## Requirements
-
-macOS 13 Ventura or later, Apple Silicon or Intel. Signed with a Developer ID and notarized by Apple.
+On long shifts, Grumlin sometimes nods off. Move the pointer over it and it’ll swear it was awake.
 
 ## Install
 
-Download the DMG from [Releases](https://github.com/ffeaturesque/grumlin/releases/latest), open it, and drag Grumlin into Applications.
+Download the DMG, open it, and drag Grumlin into Applications. You’ll need macOS 13 Ventura or later, on Apple Silicon or Intel. [Download Grumlin](https://github.com/ffeaturesque/grumlin/releases/latest)
 
-Or with Homebrew (this also installs the `grumlin` terminal command):
+If you use Homebrew, this installs both the app and the terminal command.
 
 ```sh
 brew install --cask ffeaturesque/tap/grumlin
 ```
 
----
+## From the terminal
+
+Put `grumlin` in front of a command to keep your Mac awake while it runs.
+
+```sh
+grumlin make -j8
+```
+
+When the build finishes, Grumlin goes back to sleep. If you installed the app from the DMG, right-click Grumlin and choose **Until a Process Finishes… → Install grumlin Command…** to enable the command.
 
 Made by featuresque.
